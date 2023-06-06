@@ -1,6 +1,8 @@
+import datetime
 import json
 import re
 
+import pytz as pytz
 import scrapy
 from ..items import ParserItem, PriceData, Stock, Assets, Metadata
 
@@ -14,13 +16,14 @@ class AptekaSpider(scrapy.Spider):
         self.count_product = 0
         self.step = 0
         self.ids = []
+        self.tz = pytz.timezone('Asia/Tomsk')
 
         self.url = f"{self.domain}/catalog/" + self.category + f"?start={self.count_product}"
         self.product_api = f"{self.domain}/api/catalog/"
         super().__init__(**kwargs)
 
     def start_requests(self):
-        yield scrapy.Request(self.url, callback=self.parse_products)
+        yield scrapy.Request(self.url, callback=self.parse_products, cookies={"city": 92})
 
     def parse_products(self, response, **kwargs):
         regex_pattern = r'(\d+)$'
@@ -32,14 +35,14 @@ class AptekaSpider(scrapy.Spider):
         self.step = len(urls)
         for url in urls:
             product_id = re.search(regex_pattern, url.get())[0]
-            yield scrapy.Request(self.product_api + product_id, callback=self.parse_detail_product)
+            yield scrapy.Request(self.product_api + product_id, callback=self.parse_detail_product, cookies={"city": 92})
 
         self.count_product += self.step
 
         self.log(f"{self.count_product} was parsed")
 
         self.url = re.sub(r"(?<=start=)\d+", str(self.count_product), self.url)
-        yield response.follow(self.url, callback=self.parse_products)
+        yield response.follow(self.url, callback=self.parse_products, cookies={"city": 92})
 
     def parse_detail_product(self, response, **kwargs):
         api_data = json.loads(response.text)
@@ -60,6 +63,7 @@ class AptekaSpider(scrapy.Spider):
 
         metadata["description"] = api_data["description"]
 
+        item["timestamp"] = str(datetime.datetime.now(tz=self.tz))
         item["RPC"] = api_data["id"]
         item["url"] = self.domain + "/" + api_data["slug"]
         item["title"] = api_data["name"]
