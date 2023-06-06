@@ -1,0 +1,2627 @@
+[
+  {
+    "id": 66,
+    "name": "Медикаменты и БАДы",
+    "slug": "medikamenty-i-bady",
+    "iconUrl": "/userfiles/images/app_icons/web/66.png",
+    "children": [
+      {
+        "id": 1,
+        "name": "Акушерство. Гинекология",
+        "slug": "medikamenty-i-bady/akusherstvo--ginekologiya",
+        "children": [
+          {
+            "id": 352,
+            "name": "Женская микрофлора",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/zhenskaya-mikroflora",
+            "children": null
+          },
+          {
+            "id": 355,
+            "name": "Женские половые гормоны",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/zhenskie-polovye-gormony",
+            "children": null
+          },
+          {
+            "id": 277,
+            "name": "Женское здоровье свечи (суппозитории)",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/zhenskoe-zdorove-svechi-_suppozitorii_",
+            "children": null
+          },
+          {
+            "id": 354,
+            "name": "Женское здоровье (таб, капс)",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/zhenskoe-zdorove-_tab_-kaps_",
+            "children": null
+          },
+          {
+            "id": 276,
+            "name": "Климакс",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/klimaks",
+            "children": null
+          },
+          {
+            "id": 356,
+            "name": "Мастопатия",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/mastopatiya",
+            "children": null
+          },
+          {
+            "id": 254,
+            "name": "Противозачаточные средства",
+            "slug": "medikamenty-i-bady/akusherstvo--ginekologiya/protivozachatochnye-sredstva",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Аллергия",
+        "slug": "medikamenty-i-bady/allergiya",
+        "children": [
+          {
+            "id": 399,
+            "name": "Аллергены ",
+            "slug": "medikamenty-i-bady/allergiya/allergeny-",
+            "children": null
+          },
+          {
+            "id": 401,
+            "name": "Аллергия взрослым",
+            "slug": "medikamenty-i-bady/allergiya/allergiya-vzroslym",
+            "children": null
+          },
+          {
+            "id": 400,
+            "name": "Аллергия детское",
+            "slug": "medikamenty-i-bady/allergiya/allergiya-detskoe",
+            "children": null
+          },
+          {
+            "id": 402,
+            "name": "Аллергия мази и крема",
+            "slug": "medikamenty-i-bady/allergiya/allergiya-mazi-i-krema",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Анестезия и растворители",
+        "slug": "medikamenty-i-bady/anesteziya-i-rastvoriteli",
+        "children": null
+      },
+      {
+        "id": 234,
+        "name": "Антибиотики",
+        "slug": "medikamenty-i-bady/antibiotiki",
+        "children": null
+      },
+      {
+        "id": 4,
+        "name": "Антигеморроидальные средства",
+        "slug": "medikamenty-i-bady/antigemorroidalnye-sredstva",
+        "children": null
+      },
+      {
+        "id": 5,
+        "name": "Антисептики",
+        "slug": "medikamenty-i-bady/antiseptiki",
+        "children": [
+          {
+            "id": 212,
+            "name": "Антибактериальные гели",
+            "slug": "medikamenty-i-bady/antiseptiki/antibakterialnye-geli",
+            "children": null
+          },
+          {
+            "id": 261,
+            "name": "Антисептики кожные",
+            "slug": "medikamenty-i-bady/antiseptiki/antiseptiki-kozhnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Антистрессовое действие",
+        "slug": "medikamenty-i-bady/antistressovoe-deystvie",
+        "children": [
+          {
+            "id": 357,
+            "name": "Антидепрессанты",
+            "slug": "medikamenty-i-bady/antistressovoe-deystvie/antidepressanty",
+            "children": null
+          },
+          {
+            "id": 256,
+            "name": "Снотворное",
+            "slug": "medikamenty-i-bady/antistressovoe-deystvie/snotvornoe",
+            "children": null
+          },
+          {
+            "id": 424,
+            "name": "Табачная зависимость (от курения)",
+            "slug": "medikamenty-i-bady/antistressovoe-deystvie/tabachnaya-zavisimost-_ot-kureniya_",
+            "children": null
+          },
+          {
+            "id": 271,
+            "name": "Успокоительные",
+            "slug": "medikamenty-i-bady/antistressovoe-deystvie/uspokoitelnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "name": "Витамины и микроэлементы",
+        "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy",
+        "children": [
+          {
+            "id": 222,
+            "name": "Витамин Д",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitamin-d",
+            "children": null
+          },
+          {
+            "id": 223,
+            "name": "Витамин Е",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitamin-e",
+            "children": null
+          },
+          {
+            "id": 224,
+            "name": "Витамин С",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitamin-s",
+            "children": null
+          },
+          {
+            "id": 225,
+            "name": "Витамины группы В (нервные расстройства)",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-gruppy-v-_nervnye-rasstroystva_",
+            "children": null
+          },
+          {
+            "id": 220,
+            "name": "Витамины для беременных и кормящих",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-beremennyh-i-kormyashchih",
+            "children": null
+          },
+          {
+            "id": 221,
+            "name": "Витамины для глаз",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-glaz",
+            "children": null
+          },
+          {
+            "id": 219,
+            "name": "Витамины для детей",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-detey",
+            "children": null
+          },
+          {
+            "id": 226,
+            "name": "Витамины для женщин",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-zhenshchin",
+            "children": null
+          },
+          {
+            "id": 228,
+            "name": "Витамины для иммунитета",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-immuniteta",
+            "children": null
+          },
+          {
+            "id": 227,
+            "name": "Витамины для мужчин",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-muzhchin",
+            "children": null
+          },
+          {
+            "id": 230,
+            "name": "Витамины для пожилых",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-dlya-pozhilyh",
+            "children": null
+          },
+          {
+            "id": 229,
+            "name": "Витамины другие",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-drugie",
+            "children": null
+          },
+          {
+            "id": 231,
+            "name": "Витамины комплексные (мультивитамины)",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-kompleksnye-_multivitaminy_",
+            "children": null
+          },
+          {
+            "id": 218,
+            "name": "Витамины с кальцием",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-s-kaltsiem",
+            "children": null
+          },
+          {
+            "id": 217,
+            "name": "Витамины с магнием",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/vitaminy-s-magniem",
+            "children": null
+          },
+          {
+            "id": 253,
+            "name": "Омега-3 и рыбий жир",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/omega_3-i-rybiy-zhir",
+            "children": null
+          },
+          {
+            "id": 410,
+            "name": "Препараты с железом",
+            "slug": "medikamenty-i-bady/vitaminy-i-mikroelementy/preparaty-s-zhelezom",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 208,
+        "name": "Гомеопатия",
+        "slug": "medikamenty-i-bady/gomeopatiya",
+        "children": [
+          {
+            "id": 284,
+            "name": "Гомеопатические средства",
+            "slug": "medikamenty-i-bady/gomeopatiya/gomeopaticheskie-sredstva",
+            "children": null
+          },
+          {
+            "id": 283,
+            "name": "Цветочные капли",
+            "slug": "medikamenty-i-bady/gomeopatiya/tsvetochnye-kapli",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 26,
+        "name": "Дерматология",
+        "slug": "medikamenty-i-bady/dermatologiya",
+        "children": [
+          {
+            "id": 398,
+            "name": "Акне и угревая сыпь",
+            "slug": "medikamenty-i-bady/dermatologiya/akne-i-ugrevaya-syp",
+            "children": null
+          },
+          {
+            "id": 237,
+            "name": "Гормональные мази крема",
+            "slug": "medikamenty-i-bady/dermatologiya/gormonalnye-mazi-krema",
+            "children": null
+          },
+          {
+            "id": 404,
+            "name": "Дерматит, экзема",
+            "slug": "medikamenty-i-bady/dermatologiya/dermatit_-ekzema",
+            "children": null
+          },
+          {
+            "id": 246,
+            "name": "Заживляющее наружное",
+            "slug": "medikamenty-i-bady/dermatologiya/zazhivlyayushchee-naruzhnoe",
+            "children": null
+          },
+          {
+            "id": 406,
+            "name": "От бородавок",
+            "slug": "medikamenty-i-bady/dermatologiya/ot-borodavok",
+            "children": null
+          },
+          {
+            "id": 405,
+            "name": "От рубцов и шрамов",
+            "slug": "medikamenty-i-bady/dermatologiya/ot-rubtsov-i-shramov",
+            "children": null
+          },
+          {
+            "id": 274,
+            "name": "Синяки и ушибы",
+            "slug": "medikamenty-i-bady/dermatologiya/sinyaki-i-ushiby",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 147,
+        "name": "Диабет",
+        "slug": "medikamenty-i-bady/diabet",
+        "children": null
+      },
+      {
+        "id": 35,
+        "name": "Заболевания вен",
+        "slug": "medikamenty-i-bady/zabolevaniya-ven",
+        "children": null
+      },
+      {
+        "id": 36,
+        "name": "Заболевания ЖКТ",
+        "slug": "medikamenty-i-bady/zabolevaniya-zhkt",
+        "children": [
+          {
+            "id": 279,
+            "name": "Гастропротекторы",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/gastroprotektory",
+            "children": null
+          },
+          {
+            "id": 250,
+            "name": "Микрофлора кишечника",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/mikroflora-kishechnika",
+            "children": null
+          },
+          {
+            "id": 407,
+            "name": "Моторика ЖКТ",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/motorika-zhkt",
+            "children": null
+          },
+          {
+            "id": 262,
+            "name": "От вздутия живота (ветрогонные)",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/ot-vzdutiya-zhivota-_vetrogonnye_",
+            "children": null
+          },
+          {
+            "id": 245,
+            "name": "Противодиарейные средства",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/protivodiareynye-sredstva",
+            "children": null
+          },
+          {
+            "id": 278,
+            "name": "Противорвотное (от укачивания)",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/protivorvotnoe-_ot-ukachivaniya_",
+            "children": null
+          },
+          {
+            "id": 265,
+            "name": "Противоязвенные",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/protivoyazvennye",
+            "children": null
+          },
+          {
+            "id": 255,
+            "name": "Слабительное",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/slabitelnoe",
+            "children": null
+          },
+          {
+            "id": 257,
+            "name": "Сорбенты",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/sorbenty",
+            "children": null
+          },
+          {
+            "id": 264,
+            "name": "Средства от изжоги",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/sredstva-ot-izzhogi",
+            "children": null
+          },
+          {
+            "id": 259,
+            "name": "Ферменты",
+            "slug": "medikamenty-i-bady/zabolevaniya-zhkt/fermenty",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 37,
+        "name": "Заболевания крови",
+        "slug": "medikamenty-i-bady/zabolevaniya-krovi",
+        "children": [
+          {
+            "id": 403,
+            "name": "Антиагреганты (антитромбоцитарные) ",
+            "slug": "medikamenty-i-bady/zabolevaniya-krovi/antiagreganty-_antitrombotsitarnye_-",
+            "children": null
+          },
+          {
+            "id": 396,
+            "name": "Антикоагулянты",
+            "slug": "medikamenty-i-bady/zabolevaniya-krovi/antikoagulyanty",
+            "children": null
+          },
+          {
+            "id": 408,
+            "name": "Кровоостанавливающие",
+            "slug": "medikamenty-i-bady/zabolevaniya-krovi/krovoostanavlivayushchie",
+            "children": null
+          },
+          {
+            "id": 418,
+            "name": "Плазмозамещающие растворы",
+            "slug": "medikamenty-i-bady/zabolevaniya-krovi/plazmozameshchayushchie-rastvory",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 38,
+        "name": "Заболевания мочеполовой системы",
+        "slug": "medikamenty-i-bady/zabolevaniya-mochepolovoy-sistemy",
+        "children": null
+      },
+      {
+        "id": 39,
+        "name": "Заболевания органов дыхания",
+        "slug": "medikamenty-i-bady/zabolevaniya-organov-dyhaniya",
+        "children": null
+      },
+      {
+        "id": 40,
+        "name": "Заболевания печени и желчного пузыря",
+        "slug": "medikamenty-i-bady/zabolevaniya-pecheni-i-zhelchnogo-puzyrya",
+        "children": [
+          {
+            "id": 235,
+            "name": "Гепатопротекторы",
+            "slug": "medikamenty-i-bady/zabolevaniya-pecheni-i-zhelchnogo-puzyrya/gepatoprotektory",
+            "children": null
+          },
+          {
+            "id": 411,
+            "name": "Желчегонные",
+            "slug": "medikamenty-i-bady/zabolevaniya-pecheni-i-zhelchnogo-puzyrya/zhelchegonnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 41,
+        "name": "Заболевания сердечно-сосудистой системы",
+        "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy",
+        "children": [
+          {
+            "id": 397,
+            "name": "Антигипоксанты",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/antigipoksanty",
+            "children": null
+          },
+          {
+            "id": 420,
+            "name": "Диуретики (мочегонные)",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/diuretiki-_mochegonnye_",
+            "children": null
+          },
+          {
+            "id": 419,
+            "name": "Ишемия, стенокардия",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/ishemiya_-stenokardiya",
+            "children": null
+          },
+          {
+            "id": 395,
+            "name": "От аритмии",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/ot-aritmii",
+            "children": null
+          },
+          {
+            "id": 394,
+            "name": "От давления",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/ot-davleniya",
+            "children": null
+          },
+          {
+            "id": 422,
+            "name": "Профилактика сердечных заболеваний (витамины, минералы, добавки)",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/profilaktika-serdechnyh-zabolevaniy-_vitaminy_-mineraly_-dobavki_",
+            "children": null
+          },
+          {
+            "id": 421,
+            "name": "Сердечное внутрь",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/serdechnoe-vnutr",
+            "children": null
+          },
+          {
+            "id": 275,
+            "name": "Статины",
+            "slug": "medikamenty-i-bady/zabolevaniya-serdechno_sosudistoy-sistemy/statiny",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 42,
+        "name": "Заболевания суставов",
+        "slug": "medikamenty-i-bady/zabolevaniya-sustavov",
+        "children": [
+          {
+            "id": 269,
+            "name": "Бальзамы, крема для суставов",
+            "slug": "medikamenty-i-bady/zabolevaniya-sustavov/balzamy_-krema-dlya-sustavov",
+            "children": null
+          },
+          {
+            "id": 416,
+            "name": "Остеопороз",
+            "slug": "medikamenty-i-bady/zabolevaniya-sustavov/osteoporoz",
+            "children": null
+          },
+          {
+            "id": 412,
+            "name": "Протезы синовиальной жидкости",
+            "slug": "medikamenty-i-bady/zabolevaniya-sustavov/protezy-sinovialnoy-zhidkosti",
+            "children": null
+          },
+          {
+            "id": 413,
+            "name": "Хондропротекторы внутрь",
+            "slug": "medikamenty-i-bady/zabolevaniya-sustavov/hondroprotektory-vnutr",
+            "children": null
+          },
+          {
+            "id": 414,
+            "name": "Хондропротекторы инъекции",
+            "slug": "medikamenty-i-bady/zabolevaniya-sustavov/hondroprotektory-inektsii",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 43,
+        "name": "Заболевания ушей",
+        "slug": "medikamenty-i-bady/zabolevaniya-ushey",
+        "children": null
+      },
+      {
+        "id": 49,
+        "name": "Иммуномодуляторы",
+        "slug": "medikamenty-i-bady/immunomodulyatory",
+        "children": null
+      },
+      {
+        "id": 55,
+        "name": "Контроль веса",
+        "slug": "medikamenty-i-bady/kontrol-vesa",
+        "children": null
+      },
+      {
+        "id": 251,
+        "name": "Мужское здоровье (потенция)",
+        "slug": "medikamenty-i-bady/muzhskoe-zdorove-_potentsiya_",
+        "children": null
+      },
+      {
+        "id": 73,
+        "name": "Неврология",
+        "slug": "medikamenty-i-bady/nevrologiya",
+        "children": [
+          {
+            "id": 252,
+            "name": "Ноотропы",
+            "slug": "medikamenty-i-bady/nevrologiya/nootropy",
+            "children": null
+          },
+          {
+            "id": 266,
+            "name": "От слабоумия",
+            "slug": "medikamenty-i-bady/nevrologiya/ot-slaboumiya",
+            "children": null
+          },
+          {
+            "id": 268,
+            "name": "Противосудорожные",
+            "slug": "medikamenty-i-bady/nevrologiya/protivosudorozhnye",
+            "children": null
+          },
+          {
+            "id": 358,
+            "name": "Психотропные",
+            "slug": "medikamenty-i-bady/nevrologiya/psihotropnye",
+            "children": null
+          },
+          {
+            "id": 258,
+            "name": "Улучшение мозгового крообращения",
+            "slug": "medikamenty-i-bady/nevrologiya/uluchshenie-mozgovogo-kroobrashcheniya",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 75,
+        "name": "Обезболивающие средства",
+        "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva",
+        "children": [
+          {
+            "id": 207,
+            "name": "Болевой синдром сильный",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/bolevoy-sindrom-silnyy",
+            "children": null
+          },
+          {
+            "id": 196,
+            "name": "Болевой синдром слабый",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/bolevoy-sindrom-slabyy",
+            "children": null
+          },
+          {
+            "id": 197,
+            "name": "Боль в суставах",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/bol-v-sustavah",
+            "children": null
+          },
+          {
+            "id": 198,
+            "name": "Головная боль",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/golovnaya-bol",
+            "children": null
+          },
+          {
+            "id": 201,
+            "name": "Женские боли",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/zhenskie-boli",
+            "children": null
+          },
+          {
+            "id": 202,
+            "name": "Зубная боль",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/zubnaya-bol",
+            "children": null
+          },
+          {
+            "id": 199,
+            "name": "Мигрень",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/migren",
+            "children": null
+          },
+          {
+            "id": 203,
+            "name": "Миорелаксанты",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/miorelaksanty",
+            "children": null
+          },
+          {
+            "id": 204,
+            "name": "Мышечная боль",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/myshechnaya-bol",
+            "children": null
+          },
+          {
+            "id": 415,
+            "name": "Обезболивающее наружное",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/obezbolivayushchee-naruzhnoe",
+            "children": null
+          },
+          {
+            "id": 417,
+            "name": "Обезболивающие инъекции",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/obezbolivayushchie-inektsii",
+            "children": null
+          },
+          {
+            "id": 200,
+            "name": "От боли детям",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/ot-boli-detyam",
+            "children": null
+          },
+          {
+            "id": 206,
+            "name": "От спазмов и боли в ЖКТ",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/ot-spazmov-i-boli-v-zhkt",
+            "children": null
+          },
+          {
+            "id": 205,
+            "name": "Урологические боли (недержание)",
+            "slug": "medikamenty-i-bady/obezbolivayushchie-sredstva/urologicheskie-boli-_nederzhanie_",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 76,
+        "name": "Обмен веществ (гормоны)",
+        "slug": "medikamenty-i-bady/obmen-veshchestv-_gormony_",
+        "children": null
+      },
+      {
+        "id": 423,
+        "name": "Общетонизирующие средства",
+        "slug": "medikamenty-i-bady/obshchetoniziruyushchie-sredstva",
+        "children": null
+      },
+      {
+        "id": 77,
+        "name": "Онкология",
+        "slug": "medikamenty-i-bady/onkologiya",
+        "children": null
+      },
+      {
+        "id": 78,
+        "name": "Офтальмология",
+        "slug": "medikamenty-i-bady/oftalmologiya",
+        "children": null
+      },
+      {
+        "id": 86,
+        "name": "Похмельный синдром",
+        "slug": "medikamenty-i-bady/pohmelnyy-sindrom",
+        "children": null
+      },
+      {
+        "id": 88,
+        "name": "Препараты специального действия",
+        "slug": "medikamenty-i-bady/preparaty-spetsialnogo-deystviya",
+        "children": [
+          {
+            "id": 280,
+            "name": "Вакцины и сыворотки",
+            "slug": "medikamenty-i-bady/preparaty-spetsialnogo-deystviya/vaktsiny-i-syvorotki",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 90,
+        "name": "Простудные заболевания",
+        "slug": "medikamenty-i-bady/prostudnye-zabolevaniya",
+        "children": [
+          {
+            "id": 425,
+            "name": "Горячие напитки при простуде",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/goryachie-napitki-pri-prostude",
+            "children": null
+          },
+          {
+            "id": 233,
+            "name": "Жаропонижающие средства",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/zharoponizhayushchie-sredstva",
+            "children": null
+          },
+          {
+            "id": 247,
+            "name": "Кашель влажный",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/kashel-vlazhnyy",
+            "children": null
+          },
+          {
+            "id": 248,
+            "name": "Кашель сухой",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/kashel-suhoy",
+            "children": null
+          },
+          {
+            "id": 148,
+            "name": "Насморк",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/nasmork",
+            "children": null
+          },
+          {
+            "id": 428,
+            "name": "От боли в горле спрей, полоскания",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/ot-boli-v-gorle-sprey_-poloskaniya",
+            "children": null
+          },
+          {
+            "id": 232,
+            "name": "От боли в горле таблетки",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/ot-boli-v-gorle-tabletki",
+            "children": null
+          },
+          {
+            "id": 426,
+            "name": "От простуды и гриппа детям",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/ot-prostudy-i-grippa-detyam",
+            "children": null
+          },
+          {
+            "id": 427,
+            "name": "Противопростудные средства",
+            "slug": "medikamenty-i-bady/prostudnye-zabolevaniya/protivoprostudnye-sredstva",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 91,
+        "name": "Противовирусное действие",
+        "slug": "medikamenty-i-bady/protivovirusnoe-deystvie",
+        "children": null
+      },
+      {
+        "id": 92,
+        "name": "Противовоспалительные средства",
+        "slug": "medikamenty-i-bady/protivovospalitelnye-sredstva",
+        "children": null
+      },
+      {
+        "id": 211,
+        "name": "Противогрибковые средства",
+        "slug": "medikamenty-i-bady/protivogribkovye-sredstva",
+        "children": null
+      },
+      {
+        "id": 93,
+        "name": "Противопаразитарные препараты",
+        "slug": "medikamenty-i-bady/protivoparazitarnye-preparaty",
+        "children": [
+          {
+            "id": 393,
+            "name": "Антигельминтные препараты",
+            "slug": "medikamenty-i-bady/protivoparazitarnye-preparaty/antigelmintnye-preparaty",
+            "children": null
+          },
+          {
+            "id": 267,
+            "name": "Педикулез (вши и гниды) лечение",
+            "slug": "medikamenty-i-bady/protivoparazitarnye-preparaty/pedikulez-_vshi-i-gnidy_-lechenie",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 151,
+        "name": "Сиропы и бальзамы",
+        "slug": "medikamenty-i-bady/siropy-i-balzamy",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Товары для мамы и малыша",
+    "slug": "tovary-dlya-mamy-i-malysha",
+    "iconUrl": "/userfiles/images/app_icons/web/117.png",
+    "children": [
+      {
+        "id": 260,
+        "name": "Аксессуары для детей (ножницы, расчески)",
+        "slug": "tovary-dlya-mamy-i-malysha/aksessuary-dlya-detey-_nozhnitsy_-rascheski_",
+        "children": null
+      },
+      {
+        "id": 215,
+        "name": "Безопасность малыша",
+        "slug": "tovary-dlya-mamy-i-malysha/bezopasnost-malysha",
+        "children": null
+      },
+      {
+        "id": 13,
+        "name": "Бутылочки",
+        "slug": "tovary-dlya-mamy-i-malysha/butylochki",
+        "children": [
+          {
+            "id": 365,
+            "name": "Бутылочки с 2 месяцев",
+            "slug": "tovary-dlya-mamy-i-malysha/butylochki/butylochki-s-2-mesyatsev",
+            "children": null
+          },
+          {
+            "id": 364,
+            "name": "Бутылочки с рождения (0+)",
+            "slug": "tovary-dlya-mamy-i-malysha/butylochki/butylochki-s-rozhdeniya-_0-_",
+            "children": null
+          },
+          {
+            "id": 164,
+            "name": "Поильники",
+            "slug": "tovary-dlya-mamy-i-malysha/butylochki/poilniki",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 84,
+        "name": "Гигиена малыша",
+        "slug": "tovary-dlya-mamy-i-malysha/gigiena-malysha",
+        "children": [
+          {
+            "id": 146,
+            "name": "Подгузники детские",
+            "slug": "tovary-dlya-mamy-i-malysha/gigiena-malysha/podguzniki-detskie",
+            "children": null
+          },
+          {
+            "id": 145,
+            "name": "Подгузники для плавания",
+            "slug": "tovary-dlya-mamy-i-malysha/gigiena-malysha/podguzniki-dlya-plavaniya",
+            "children": null
+          },
+          {
+            "id": 153,
+            "name": "Трусики-подгузники детские",
+            "slug": "tovary-dlya-mamy-i-malysha/gigiena-malysha/trusiki_podguzniki-detskie",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 27,
+        "name": "Детская косметика",
+        "slug": "tovary-dlya-mamy-i-malysha/detskaya-kosmetika",
+        "children": null
+      },
+      {
+        "id": 30,
+        "name": "Для беременных и кормящих мам",
+        "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam",
+        "children": [
+          {
+            "id": 195,
+            "name": "Бандаж для беременных",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/bandazh-dlya-beremennyh",
+            "children": null
+          },
+          {
+            "id": 177,
+            "name": "Белье для кормящих мам",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/bele-dlya-kormyashchih-mam",
+            "children": null
+          },
+          {
+            "id": 383,
+            "name": "Изделия для беременных и кормящих мам",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/izdeliya-dlya-beremennyh-i-kormyashchih-mam",
+            "children": null
+          },
+          {
+            "id": 381,
+            "name": "Косметика для беременных и кормящих мам",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/kosmetika-dlya-beremennyh-i-kormyashchih-mam",
+            "children": null
+          },
+          {
+            "id": 382,
+            "name": "Питание для беременных и кормящих мам",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/pitanie-dlya-beremennyh-i-kormyashchih-mam",
+            "children": null
+          },
+          {
+            "id": 409,
+            "name": "Трусики гинекологические",
+            "slug": "tovary-dlya-mamy-i-malysha/dlya-beremennyh-i-kormyashchih-mam/trusiki-ginekologicheskie",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 282,
+        "name": "Для купания малыша",
+        "slug": "tovary-dlya-mamy-i-malysha/dlya-kupaniya-malysha",
+        "children": null
+      },
+      {
+        "id": 47,
+        "name": "Игрушки",
+        "slug": "tovary-dlya-mamy-i-malysha/igrushki",
+        "children": [
+          {
+            "id": 359,
+            "name": "Игрушки для купания",
+            "slug": "tovary-dlya-mamy-i-malysha/igrushki/igrushki-dlya-kupaniya",
+            "children": null
+          },
+          {
+            "id": 360,
+            "name": "Мягкие игрушки",
+            "slug": "tovary-dlya-mamy-i-malysha/igrushki/myagkie-igrushki",
+            "children": null
+          },
+          {
+            "id": 213,
+            "name": "Погремушки",
+            "slug": "tovary-dlya-mamy-i-malysha/igrushki/pogremushki",
+            "children": null
+          },
+          {
+            "id": 214,
+            "name": "Прорезыватели",
+            "slug": "tovary-dlya-mamy-i-malysha/igrushki/prorezyvateli",
+            "children": null
+          },
+          {
+            "id": 361,
+            "name": "Прочие игрушки",
+            "slug": "tovary-dlya-mamy-i-malysha/igrushki/prochie-igrushki",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 238,
+        "name": "Клипсы зажимы для пустышек",
+        "slug": "tovary-dlya-mamy-i-malysha/klipsy-zazhimy-dlya-pustyshek",
+        "children": null
+      },
+      {
+        "id": 72,
+        "name": "Наборы для кормления",
+        "slug": "tovary-dlya-mamy-i-malysha/nabory-dlya-kormleniya",
+        "children": null
+      },
+      {
+        "id": 380,
+        "name": "Одежда и текстиль для детей",
+        "slug": "tovary-dlya-mamy-i-malysha/odezhda-i-tekstil-dlya-detey",
+        "children": null
+      },
+      {
+        "id": 79,
+        "name": "Пеленки детские",
+        "slug": "tovary-dlya-mamy-i-malysha/pelenki-detskie",
+        "children": null
+      },
+      {
+        "id": 97,
+        "name": "Пустышки",
+        "slug": "tovary-dlya-mamy-i-malysha/pustyshki",
+        "children": null
+      },
+      {
+        "id": 104,
+        "name": "Соски",
+        "slug": "tovary-dlya-mamy-i-malysha/soski",
+        "children": null
+      },
+      {
+        "id": 28,
+        "name": "Детское питание",
+        "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie",
+        "children": [
+          {
+            "id": 243,
+            "name": "Каша безмолочная детская",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/kasha-bezmolochnaya-detskaya",
+            "children": null
+          },
+          {
+            "id": 242,
+            "name": "Каша молочная детская",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/kasha-molochnaya-detskaya",
+            "children": null
+          },
+          {
+            "id": 375,
+            "name": "Перекус для детей",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/perekus-dlya-detey",
+            "children": null
+          },
+          {
+            "id": 240,
+            "name": "Пюре мясное",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/pyure-myasnoe",
+            "children": null
+          },
+          {
+            "id": 241,
+            "name": "Пюре овощное",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/pyure-ovoshchnoe",
+            "children": null
+          },
+          {
+            "id": 239,
+            "name": "Пюре фруктовое",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/pyure-fruktovoe",
+            "children": null
+          },
+          {
+            "id": 244,
+            "name": "Смеси для кормления малышей",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/smesi-dlya-kormleniya-malyshey",
+            "children": null
+          },
+          {
+            "id": 373,
+            "name": "Смеси для энтерального питания",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/smesi-dlya-enteralnogo-pitaniya",
+            "children": null
+          },
+          {
+            "id": 372,
+            "name": "Соки и нектары для детей",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/soki-i-nektary-dlya-detey",
+            "children": null
+          },
+          {
+            "id": 374,
+            "name": "Чай детский",
+            "slug": "tovary-dlya-mamy-i-malysha/detskoe-pitanie/chay-detskiy",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Изделия медицинского назначения",
+    "slug": "izdeliya-meditsinskogo-naznacheniya",
+    "iconUrl": "/userfiles/images/app_icons/web/48.png",
+    "children": [
+      {
+        "id": 7,
+        "name": "Аптечки",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/aptechki",
+        "children": null
+      },
+      {
+        "id": 11,
+        "name": "Бахилы",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/bahily",
+        "children": null
+      },
+      {
+        "id": 82,
+        "name": "Беруши",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/berushi",
+        "children": null
+      },
+      {
+        "id": 45,
+        "name": "Гинекологические изделия",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/ginekologicheskie-izdeliya",
+        "children": null
+      },
+      {
+        "id": 144,
+        "name": "Горчичники",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/gorchichniki",
+        "children": null
+      },
+      {
+        "id": 304,
+        "name": "Для инъекций",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy",
+        "children": [
+          {
+            "id": 216,
+            "name": "Иглы для инъекций",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/igly-dlya-inektsiy",
+            "children": null
+          },
+          {
+            "id": 297,
+            "name": "Канюля",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/kanyulya",
+            "children": null
+          },
+          {
+            "id": 294,
+            "name": "Катетеры",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/katetery",
+            "children": null
+          },
+          {
+            "id": 306,
+            "name": "Ланцеты для прокола пальца",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/lantsety-dlya-prokola-paltsa",
+            "children": null
+          },
+          {
+            "id": 295,
+            "name": "Системы для переливания",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/sistemy-dlya-perelivaniya",
+            "children": null
+          },
+          {
+            "id": 289,
+            "name": "Шприц-ручки",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/shprits_ruchki",
+            "children": null
+          },
+          {
+            "id": 288,
+            "name": "Шприцы",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/dlya-inektsiy/shpritsy",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 51,
+        "name": "Кало- и мочеприемники",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/kalo_-i-mochepriemniki",
+        "children": null
+      },
+      {
+        "id": 292,
+        "name": "Кислородные баллоны",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/kislorodnye-ballony",
+        "children": null
+      },
+      {
+        "id": 54,
+        "name": "Контейнеры для сбора анализов",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/konteynery-dlya-sbora-analizov",
+        "children": null
+      },
+      {
+        "id": 63,
+        "name": "Маски медицинские",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/maski-meditsinskie",
+        "children": null
+      },
+      {
+        "id": 290,
+        "name": "Медицинская одежда",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/meditsinskaya-odezhda",
+        "children": null
+      },
+      {
+        "id": 129,
+        "name": "Носовые фильтры",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/nosovye-filtry",
+        "children": null
+      },
+      {
+        "id": 102,
+        "name": "Парафин и озокерит",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/parafin-i-ozokerit",
+        "children": null
+      },
+      {
+        "id": 81,
+        "name": "Перчатки",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/perchatki",
+        "children": null
+      },
+      {
+        "id": 301,
+        "name": "Пипетки",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/pipetki",
+        "children": null
+      },
+      {
+        "id": 95,
+        "name": "Прочие изделия",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/prochie-izdeliya",
+        "children": null
+      },
+      {
+        "id": 25,
+        "name": "Резиновые изделия",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya",
+        "children": [
+          {
+            "id": 299,
+            "name": "Грелки",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya/grelki",
+            "children": null
+          },
+          {
+            "id": 298,
+            "name": "Жгуты",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya/zhguty",
+            "children": null
+          },
+          {
+            "id": 291,
+            "name": "Зонды резиновые",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya/zondy-rezinovye",
+            "children": null
+          },
+          {
+            "id": 52,
+            "name": "Клеенки",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya/kleenki",
+            "children": null
+          },
+          {
+            "id": 106,
+            "name": "Спринцовки",
+            "slug": "izdeliya-meditsinskogo-naznacheniya/rezinovye-izdeliya/sprintsovki",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 300,
+        "name": "Таблетницы",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/tabletnitsy",
+        "children": null
+      },
+      {
+        "id": 270,
+        "name": "Тест-полоски экспресс диагностика",
+        "slug": "izdeliya-meditsinskogo-naznacheniya/test_poloski-ekspress-diagnostika",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Косметика",
+    "slug": "kosmetika",
+    "iconUrl": "/userfiles/images/app_icons/web/58.png",
+    "children": [
+      {
+        "id": 9,
+        "name": "Банные серии",
+        "slug": "kosmetika/bannye-serii",
+        "children": [
+          {
+            "id": 169,
+            "name": "Гель для душа",
+            "slug": "kosmetika/bannye-serii/gel-dlya-dusha",
+            "children": null
+          },
+          {
+            "id": 367,
+            "name": "Пена, экстракты для ванн",
+            "slug": "kosmetika/bannye-serii/pena_-ekstrakty-dlya-vann",
+            "children": null
+          },
+          {
+            "id": 366,
+            "name": "Скипидарные ванны",
+            "slug": "kosmetika/bannye-serii/skipidarnye-vanny",
+            "children": null
+          },
+          {
+            "id": 166,
+            "name": "Соль для ванн",
+            "slug": "kosmetika/bannye-serii/sol-dlya-vann",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 23,
+        "name": "Глина",
+        "slug": "kosmetika/glina",
+        "children": null
+      },
+      {
+        "id": 32,
+        "name": "Для мужчин",
+        "slug": "kosmetika/dlya-muzhchin",
+        "children": [
+          {
+            "id": 210,
+            "name": "Гель для душа мужской",
+            "slug": "kosmetika/dlya-muzhchin/gel-dlya-dusha-muzhskoy",
+            "children": null
+          },
+          {
+            "id": 167,
+            "name": "Для бритья мужчинам",
+            "slug": "kosmetika/dlya-muzhchin/dlya-britya-muzhchinam",
+            "children": null
+          },
+          {
+            "id": 384,
+            "name": "Косметика для мужчин",
+            "slug": "kosmetika/dlya-muzhchin/kosmetika-dlya-muzhchin",
+            "children": null
+          },
+          {
+            "id": 168,
+            "name": "Шампунь мужской",
+            "slug": "kosmetika/dlya-muzhchin/shampun-muzhskoy",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 33,
+        "name": "Духи с ферромонами",
+        "slug": "kosmetika/duhi-s-ferromonami",
+        "children": null
+      },
+      {
+        "id": 209,
+        "name": "Косметические наборы",
+        "slug": "kosmetika/kosmeticheskie-nabory",
+        "children": null
+      },
+      {
+        "id": 285,
+        "name": "Маникюр и педикюр",
+        "slug": "kosmetika/manikyur-i-pedikyur",
+        "children": [
+          {
+            "id": 286,
+            "name": "Инструменты для маникюра",
+            "slug": "kosmetika/manikyur-i-pedikyur/instrumenty-dlya-manikyura",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 64,
+        "name": "Масла косметические",
+        "slug": "kosmetika/masla-kosmeticheskie",
+        "children": [
+          {
+            "id": 321,
+            "name": "Косметическое масло",
+            "slug": "kosmetika/masla-kosmeticheskie/kosmeticheskoe-maslo",
+            "children": null
+          },
+          {
+            "id": 312,
+            "name": "Масло для волос, ресниц",
+            "slug": "kosmetika/masla-kosmeticheskie/maslo-dlya-volos_-resnits",
+            "children": null
+          },
+          {
+            "id": 165,
+            "name": "Эфирное масло",
+            "slug": "kosmetika/masla-kosmeticheskie/efirnoe-maslo",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 108,
+        "name": "Средства для губ",
+        "slug": "kosmetika/sredstva-dlya-gub",
+        "children": null
+      },
+      {
+        "id": 109,
+        "name": "Средства для лица",
+        "slug": "kosmetika/sredstva-dlya-litsa",
+        "children": [
+          {
+            "id": 325,
+            "name": "Для умывания",
+            "slug": "kosmetika/sredstva-dlya-litsa/dlya-umyvaniya",
+            "children": null
+          },
+          {
+            "id": 348,
+            "name": "Крем для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/krem-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 330,
+            "name": "Лосьоны, тоники, молочко для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/losony_-toniki_-molochko-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 281,
+            "name": "Макияж",
+            "slug": "kosmetika/sredstva-dlya-litsa/makiyazh",
+            "children": null
+          },
+          {
+            "id": 186,
+            "name": "Маски косметические для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/maski-kosmeticheskie-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 249,
+            "name": "Маски тканевые для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/maski-tkanevye-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 326,
+            "name": "Скрабы и пилинги для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/skraby-i-pilingi-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 329,
+            "name": "Средства для проблемной кожи лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/sredstva-dlya-problemnoy-kozhi-litsa",
+            "children": null
+          },
+          {
+            "id": 328,
+            "name": "Средства против морщин и старения",
+            "slug": "kosmetika/sredstva-dlya-litsa/sredstva-protiv-morshchin-i-stareniya",
+            "children": null
+          },
+          {
+            "id": 345,
+            "name": "Сыворотки, концентраты, эмульсии для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/syvorotki_-kontsentraty_-emulsii-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 347,
+            "name": "Термальная вода, спреи для лица",
+            "slug": "kosmetika/sredstva-dlya-litsa/termalnaya-voda_-sprei-dlya-litsa",
+            "children": null
+          },
+          {
+            "id": 305,
+            "name": "Уколы красоты",
+            "slug": "kosmetika/sredstva-dlya-litsa/ukoly-krasoty",
+            "children": null
+          },
+          {
+            "id": 327,
+            "name": "Уход для кожи вокруг глаз",
+            "slug": "kosmetika/sredstva-dlya-litsa/uhod-dlya-kozhi-vokrug-glaz",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 110,
+        "name": "Средства для ног",
+        "slug": "kosmetika/sredstva-dlya-nog",
+        "children": null
+      },
+      {
+        "id": 111,
+        "name": "Средства для рук",
+        "slug": "kosmetika/sredstva-dlya-ruk",
+        "children": [
+          {
+            "id": 273,
+            "name": "Для ногтей",
+            "slug": "kosmetika/sredstva-dlya-ruk/dlya-nogtey",
+            "children": null
+          },
+          {
+            "id": 272,
+            "name": "Крем для рук",
+            "slug": "kosmetika/sredstva-dlya-ruk/krem-dlya-ruk",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 112,
+        "name": "Средства для тела",
+        "slug": "kosmetika/sredstva-dlya-tela",
+        "children": [
+          {
+            "id": 170,
+            "name": "Депиляция женское",
+            "slug": "kosmetika/sredstva-dlya-tela/depilyatsiya-zhenskoe",
+            "children": null
+          },
+          {
+            "id": 293,
+            "name": "Крем для тела, лосьон, бальзам",
+            "slug": "kosmetika/sredstva-dlya-tela/krem-dlya-tela_-loson_-balzam",
+            "children": null
+          },
+          {
+            "id": 263,
+            "name": "Массажные крема",
+            "slug": "kosmetika/sredstva-dlya-tela/massazhnye-krema",
+            "children": null
+          },
+          {
+            "id": 324,
+            "name": "Молочко для тела",
+            "slug": "kosmetika/sredstva-dlya-tela/molochko-dlya-tela",
+            "children": null
+          },
+          {
+            "id": 322,
+            "name": "Скрабы и пилинги для тела",
+            "slug": "kosmetika/sredstva-dlya-tela/skraby-i-pilingi-dlya-tela",
+            "children": null
+          },
+          {
+            "id": 323,
+            "name": "Специальные средства для тела",
+            "slug": "kosmetika/sredstva-dlya-tela/spetsialnye-sredstva-dlya-tela",
+            "children": null
+          },
+          {
+            "id": 391,
+            "name": "Спреи для тела",
+            "slug": "kosmetika/sredstva-dlya-tela/sprei-dlya-tela",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 124,
+        "name": "Уход за волосами",
+        "slug": "kosmetika/uhod-za-volosami",
+        "children": [
+          {
+            "id": 188,
+            "name": "Бальзамы, кондиционеры для волос",
+            "slug": "kosmetika/uhod-za-volosami/balzamy_-konditsionery-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 313,
+            "name": "Краска для волос",
+            "slug": "kosmetika/uhod-za-volosami/kraska-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 310,
+            "name": "Лечебные средства для волос",
+            "slug": "kosmetika/uhod-za-volosami/lechebnye-sredstva-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 189,
+            "name": "Маски для волос",
+            "slug": "kosmetika/uhod-za-volosami/maski-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 314,
+            "name": "Средства для укладки волос",
+            "slug": "kosmetika/uhod-za-volosami/sredstva-dlya-ukladki-volos",
+            "children": null
+          },
+          {
+            "id": 311,
+            "name": "Средства против выпадения волос",
+            "slug": "kosmetika/uhod-za-volosami/sredstva-protiv-vypadeniya-volos",
+            "children": null
+          },
+          {
+            "id": 315,
+            "name": "Сыворотки, лосьоны и прочие средства для волос",
+            "slug": "kosmetika/uhod-za-volosami/syvorotki_-losony-i-prochie-sredstva-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 187,
+            "name": "Шампунь для волос",
+            "slug": "kosmetika/uhod-za-volosami/shampun-dlya-volos",
+            "children": null
+          },
+          {
+            "id": 192,
+            "name": "Шампунь от перхоти",
+            "slug": "kosmetika/uhod-za-volosami/shampun-ot-perhoti",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Диетическое питание, напитки",
+    "slug": "dieticheskoe-pitanie_-napitki",
+    "iconUrl": "/userfiles/images/app_icons/web/29.png",
+    "children": [
+      {
+        "id": 19,
+        "name": "Вода",
+        "slug": "dieticheskoe-pitanie_-napitki/voda",
+        "children": [
+          {
+            "id": 343,
+            "name": "Газированная вода",
+            "slug": "dieticheskoe-pitanie_-napitki/voda/gazirovannaya-voda",
+            "children": null
+          },
+          {
+            "id": 344,
+            "name": "Негазированная питьевая вода",
+            "slug": "dieticheskoe-pitanie_-napitki/voda/negazirovannaya-pitevaya-voda",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 331,
+        "name": "Жевательные смолки",
+        "slug": "dieticheskoe-pitanie_-napitki/zhevatelnye-smolki",
+        "children": null
+      },
+      {
+        "id": 44,
+        "name": "Здоровое питание",
+        "slug": "dieticheskoe-pitanie_-napitki/zdorovoe-pitanie",
+        "children": [
+          {
+            "id": 339,
+            "name": "Здоровое питание другое",
+            "slug": "dieticheskoe-pitanie_-napitki/zdorovoe-pitanie/zdorovoe-pitanie-drugoe",
+            "children": null
+          },
+          {
+            "id": 338,
+            "name": "Каши злаковые",
+            "slug": "dieticheskoe-pitanie_-napitki/zdorovoe-pitanie/kashi-zlakovye",
+            "children": null
+          },
+          {
+            "id": 340,
+            "name": "Мука и смеси для приготовления еды",
+            "slug": "dieticheskoe-pitanie_-napitki/zdorovoe-pitanie/muka-i-smesi-dlya-prigotovleniya-edy",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 342,
+        "name": "Кисели",
+        "slug": "dieticheskoe-pitanie_-napitki/kiseli",
+        "children": null
+      },
+      {
+        "id": 341,
+        "name": "Коктейли диетические",
+        "slug": "dieticheskoe-pitanie_-napitki/kokteyli-dieticheskie",
+        "children": null
+      },
+      {
+        "id": 346,
+        "name": "Коллаген",
+        "slug": "dieticheskoe-pitanie_-napitki/kollagen",
+        "children": null
+      },
+      {
+        "id": 150,
+        "name": "Масло пищевое",
+        "slug": "dieticheskoe-pitanie_-napitki/maslo-pishchevoe",
+        "children": null
+      },
+      {
+        "id": 337,
+        "name": "Полезный перекус",
+        "slug": "dieticheskoe-pitanie_-napitki/poleznyy-perekus",
+        "children": [
+          {
+            "id": 10,
+            "name": "Батончики",
+            "slug": "dieticheskoe-pitanie_-napitki/poleznyy-perekus/batonchiki",
+            "children": null
+          },
+          {
+            "id": 21,
+            "name": "Гематогены",
+            "slug": "dieticheskoe-pitanie_-napitki/poleznyy-perekus/gematogeny",
+            "children": null
+          },
+          {
+            "id": 46,
+            "name": "Злаки",
+            "slug": "dieticheskoe-pitanie_-napitki/poleznyy-perekus/zlaki",
+            "children": null
+          },
+          {
+            "id": 71,
+            "name": "Мюсли",
+            "slug": "dieticheskoe-pitanie_-napitki/poleznyy-perekus/myusli",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 96,
+        "name": "Прочие напитки",
+        "slug": "dieticheskoe-pitanie_-napitki/prochie-napitki",
+        "children": null
+      },
+      {
+        "id": 100,
+        "name": "Сахарозаменители",
+        "slug": "dieticheskoe-pitanie_-napitki/saharozameniteli",
+        "children": null
+      },
+      {
+        "id": 56,
+        "name": "Сладости",
+        "slug": "dieticheskoe-pitanie_-napitki/sladosti",
+        "children": [
+          {
+            "id": 333,
+            "name": "Конфеты и шоколад",
+            "slug": "dieticheskoe-pitanie_-napitki/sladosti/konfety-i-shokolad",
+            "children": null
+          },
+          {
+            "id": 332,
+            "name": "Мармелад и пастила",
+            "slug": "dieticheskoe-pitanie_-napitki/sladosti/marmelad-i-pastila",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 103,
+        "name": "Снижение веса питание",
+        "slug": "dieticheskoe-pitanie_-napitki/snizhenie-vesa-pitanie",
+        "children": null
+      },
+      {
+        "id": 120,
+        "name": "Травы, чаи",
+        "slug": "dieticheskoe-pitanie_-napitki/travy_-chai",
+        "children": [
+          {
+            "id": 101,
+            "name": "Сборы",
+            "slug": "dieticheskoe-pitanie_-napitki/travy_-chai/sbory",
+            "children": null
+          },
+          {
+            "id": 119,
+            "name": "Травы",
+            "slug": "dieticheskoe-pitanie_-napitki/travy_-chai/travy",
+            "children": null
+          },
+          {
+            "id": 127,
+            "name": "Фильтр-пакеты",
+            "slug": "dieticheskoe-pitanie_-napitki/travy_-chai/filtr_pakety",
+            "children": null
+          },
+          {
+            "id": 128,
+            "name": "Чайные напитки",
+            "slug": "dieticheskoe-pitanie_-napitki/travy_-chai/chaynye-napitki",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Перевязочные средства",
+    "slug": "perevyazochnye-sredstva",
+    "iconUrl": "/userfiles/images/app_icons/web/80.png",
+    "children": [
+      {
+        "id": 12,
+        "name": "Бинты",
+        "slug": "perevyazochnye-sredstva/binty",
+        "children": [
+          {
+            "id": 308,
+            "name": "Бинты гипсовые, полимерные",
+            "slug": "perevyazochnye-sredstva/binty/binty-gipsovye_-polimernye",
+            "children": null
+          },
+          {
+            "id": 309,
+            "name": "Бинты медицинские",
+            "slug": "perevyazochnye-sredstva/binty/binty-meditsinskie",
+            "children": null
+          },
+          {
+            "id": 307,
+            "name": "Бинты трубчатые",
+            "slug": "perevyazochnye-sredstva/binty/binty-trubchatye",
+            "children": null
+          },
+          {
+            "id": 193,
+            "name": "Бинты эластичные компрессионные",
+            "slug": "perevyazochnye-sredstva/binty/binty-elastichnye-kompressionnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 14,
+        "name": "Вата",
+        "slug": "perevyazochnye-sredstva/vata",
+        "children": null
+      },
+      {
+        "id": 59,
+        "name": "Лейкопластыри",
+        "slug": "perevyazochnye-sredstva/leykoplastyri",
+        "children": [
+          {
+            "id": 8,
+            "name": "Бактерицидные пластыри",
+            "slug": "perevyazochnye-sredstva/leykoplastyri/bakteritsidnye-plastyri",
+            "children": null
+          },
+          {
+            "id": 385,
+            "name": "Лейкопластыри глазные",
+            "slug": "perevyazochnye-sredstva/leykoplastyri/leykoplastyri-glaznye",
+            "children": null
+          },
+          {
+            "id": 386,
+            "name": "Лейкопластыри специализированные",
+            "slug": "perevyazochnye-sredstva/leykoplastyri/leykoplastyri-spetsializirovannye",
+            "children": null
+          },
+          {
+            "id": 69,
+            "name": "Мозольные пластыри",
+            "slug": "perevyazochnye-sredstva/leykoplastyri/mozolnye-plastyri",
+            "children": null
+          },
+          {
+            "id": 349,
+            "name": "Пластыри фиксирующие",
+            "slug": "perevyazochnye-sredstva/leykoplastyri/plastyri-fiksiruyushchie",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 62,
+        "name": "Марля",
+        "slug": "perevyazochnye-sredstva/marlya",
+        "children": null
+      },
+      {
+        "id": 113,
+        "name": "Стерильные салфетки, повязки",
+        "slug": "perevyazochnye-sredstva/sterilnye-salfetki_-povyazki",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Планирование семьи",
+    "slug": "planirovanie-semi",
+    "iconUrl": "/userfiles/images/app_icons/web/83.png",
+    "children": [
+      {
+        "id": 20,
+        "name": "Гели-смазки",
+        "slug": "planirovanie-semi/geli_smazki",
+        "children": null
+      },
+      {
+        "id": 87,
+        "name": "Презервативы",
+        "slug": "planirovanie-semi/prezervativy",
+        "children": null
+      },
+      {
+        "id": 105,
+        "name": "Спирали",
+        "slug": "planirovanie-semi/spirali",
+        "children": null
+      },
+      {
+        "id": 116,
+        "name": "Тесты на беременность",
+        "slug": "planirovanie-semi/testy-na-beremennost",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Средства гигиены",
+    "slug": "sredstva-gigieny",
+    "iconUrl": "/userfiles/images/app_icons/web/107.png",
+    "children": [
+      {
+        "id": 15,
+        "name": "Ватные диски",
+        "slug": "sredstva-gigieny/vatnye-diski",
+        "children": null
+      },
+      {
+        "id": 16,
+        "name": "Ватные палочки",
+        "slug": "sredstva-gigieny/vatnye-palochki",
+        "children": null
+      },
+      {
+        "id": 18,
+        "name": "Влажные салфетки",
+        "slug": "sredstva-gigieny/vlazhnye-salfetki",
+        "children": [
+          {
+            "id": 369,
+            "name": "Влажная туалетная бумага",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnaya-tualetnaya-bumaga",
+            "children": null
+          },
+          {
+            "id": 353,
+            "name": "Влажные салфетки анитибактериальные",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnye-salfetki-anitibakterialnye",
+            "children": null
+          },
+          {
+            "id": 351,
+            "name": "Влажные салфетки для детей",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnye-salfetki-dlya-detey",
+            "children": null
+          },
+          {
+            "id": 176,
+            "name": "Влажные салфетки для интимной гигиены",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnye-salfetki-dlya-intimnoy-gigieny",
+            "children": null
+          },
+          {
+            "id": 371,
+            "name": "Влажные салфетки прочие",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnye-salfetki-prochie",
+            "children": null
+          },
+          {
+            "id": 368,
+            "name": "Влажные салфетки хозяйственные",
+            "slug": "sredstva-gigieny/vlazhnye-salfetki/vlazhnye-salfetki-hozyaystvennye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 34,
+        "name": "Женская гигиена",
+        "slug": "sredstva-gigieny/zhenskaya-gigiena",
+        "children": [
+          {
+            "id": 183,
+            "name": "Интимная гигиена",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/intimnaya-gigiena",
+            "children": null
+          },
+          {
+            "id": 182,
+            "name": "Прокладки-вкладыши для груди",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/prokladki_vkladyshi-dlya-grudi",
+            "children": null
+          },
+          {
+            "id": 180,
+            "name": "Прокладки гигиенические",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/prokladki-gigienicheskie",
+            "children": null
+          },
+          {
+            "id": 178,
+            "name": "Прокладки ежедневные",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/prokladki-ezhednevnye",
+            "children": null
+          },
+          {
+            "id": 181,
+            "name": "Прокладки родовые",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/prokladki-rodovye",
+            "children": null
+          },
+          {
+            "id": 179,
+            "name": "Тампоны",
+            "slug": "sredstva-gigieny/zhenskaya-gigiena/tampony",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 70,
+        "name": "Мыло",
+        "slug": "sredstva-gigieny/mylo",
+        "children": [
+          {
+            "id": 184,
+            "name": "Мыло жидкое",
+            "slug": "sredstva-gigieny/mylo/mylo-zhidkoe",
+            "children": null
+          },
+          {
+            "id": 350,
+            "name": "Мыло твердое",
+            "slug": "sredstva-gigieny/mylo/mylo-tverdoe",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 74,
+        "name": "Носовые платки",
+        "slug": "sredstva-gigieny/nosovye-platki",
+        "children": [
+          {
+            "id": 387,
+            "name": "Платочки бумажные",
+            "slug": "sredstva-gigieny/nosovye-platki/platochki-bumazhnye",
+            "children": null
+          },
+          {
+            "id": 185,
+            "name": "Салфетки бумажные",
+            "slug": "sredstva-gigieny/nosovye-platki/salfetki-bumazhnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 141,
+        "name": "От пота",
+        "slug": "sredstva-gigieny/ot-pota",
+        "children": [
+          {
+            "id": 171,
+            "name": "Дезодоранты антиперспиранты женские",
+            "slug": "sredstva-gigieny/ot-pota/dezodoranty-antiperspiranty-zhenskie",
+            "children": null
+          },
+          {
+            "id": 172,
+            "name": "Дезодоранты антиперспиранты мужские",
+            "slug": "sredstva-gigieny/ot-pota/dezodoranty-antiperspiranty-muzhskie",
+            "children": null
+          },
+          {
+            "id": 191,
+            "name": "Дезодоранты для ног",
+            "slug": "sredstva-gigieny/ot-pota/dezodoranty-dlya-nog",
+            "children": null
+          },
+          {
+            "id": 378,
+            "name": "Прокладки подмышечные",
+            "slug": "sredstva-gigieny/ot-pota/prokladki-podmyshechnye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 152,
+        "name": "Туалетная бумага",
+        "slug": "sredstva-gigieny/tualetnaya-bumaga",
+        "children": null
+      },
+      {
+        "id": 126,
+        "name": "Уход за полостью рта",
+        "slug": "sredstva-gigieny/uhod-za-polostyu-rta",
+        "children": [
+          {
+            "id": 318,
+            "name": "Зубные нити, ершики",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/zubnye-niti_-ershiki",
+            "children": null
+          },
+          {
+            "id": 319,
+            "name": "Ирригаторы и насадки к ним",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/irrigatory-i-nasadki-k-nim",
+            "children": null
+          },
+          {
+            "id": 162,
+            "name": "Ополаскиватель для рта",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/opolaskivatel-dlya-rta",
+            "children": null
+          },
+          {
+            "id": 158,
+            "name": "Пасты зубные взрослым",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/pasty-zubnye-vzroslym",
+            "children": null
+          },
+          {
+            "id": 159,
+            "name": "Пасты зубные детские",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/pasty-zubnye-detskie",
+            "children": null
+          },
+          {
+            "id": 316,
+            "name": "Средства для зубных протезов",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/sredstva-dlya-zubnyh-protezov",
+            "children": null
+          },
+          {
+            "id": 320,
+            "name": "Средства для зубов и десен",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/sredstva-dlya-zubov-i-desen",
+            "children": null
+          },
+          {
+            "id": 317,
+            "name": "Средства для отбеливания зубов",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/sredstva-dlya-otbelivaniya-zubov",
+            "children": null
+          },
+          {
+            "id": 160,
+            "name": "Щетки зубные взрослым",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/shchetki-zubnye-vzroslym",
+            "children": null
+          },
+          {
+            "id": 161,
+            "name": "Щетки зубные детские",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/shchetki-zubnye-detskie",
+            "children": null
+          },
+          {
+            "id": 163,
+            "name": "Электрические зубные щетки",
+            "slug": "sredstva-gigieny/uhod-za-polostyu-rta/elektricheskie-zubnye-shchetki",
+            "children": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Медицинская техника",
+    "slug": "meditsinskaya-tekhnika",
+    "iconUrl": "/userfiles/images/app_icons/web/67.png",
+    "children": [
+      {
+        "id": 22,
+        "name": "Гигиена носа",
+        "slug": "meditsinskaya-tekhnika/gigiena-nosa",
+        "children": null
+      },
+      {
+        "id": 24,
+        "name": "Глюкометры",
+        "slug": "meditsinskaya-tekhnika/glyukometry",
+        "children": null
+      },
+      {
+        "id": 149,
+        "name": "Другая медтехника",
+        "slug": "meditsinskaya-tekhnika/drugaya-medtekhnika",
+        "children": null
+      },
+      {
+        "id": 50,
+        "name": "Ингаляторы",
+        "slug": "meditsinskaya-tekhnika/ingalyatory",
+        "children": null
+      },
+      {
+        "id": 61,
+        "name": "Магнитотерапия",
+        "slug": "meditsinskaya-tekhnika/magnitoterapiya",
+        "children": null
+      },
+      {
+        "id": 65,
+        "name": "Массажеры",
+        "slug": "meditsinskaya-tekhnika/massazhery",
+        "children": [
+          {
+            "id": 376,
+            "name": "Банки вакуумные",
+            "slug": "meditsinskaya-tekhnika/massazhery/banki-vakuumnye",
+            "children": null
+          },
+          {
+            "id": 303,
+            "name": "Иппликаторы игольчатые",
+            "slug": "meditsinskaya-tekhnika/massazhery/ipplikatory-igolchatye",
+            "children": null
+          },
+          {
+            "id": 377,
+            "name": "Массажеры прочие",
+            "slug": "meditsinskaya-tekhnika/massazhery/massazhery-prochie",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 287,
+        "name": "Пульсоксиметры",
+        "slug": "meditsinskaya-tekhnika/pulsoksimetry",
+        "children": null
+      },
+      {
+        "id": 114,
+        "name": "Стетоскопы",
+        "slug": "meditsinskaya-tekhnika/stetoskopy",
+        "children": null
+      },
+      {
+        "id": 115,
+        "name": "Термометры",
+        "slug": "meditsinskaya-tekhnika/termometry",
+        "children": null
+      },
+      {
+        "id": 118,
+        "name": "Тонометры",
+        "slug": "meditsinskaya-tekhnika/tonometry",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Уход за больными, средства реабилитации",
+    "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii",
+    "iconUrl": "/userfiles/images/app_icons/web/123.png",
+    "children": [
+      {
+        "id": 53,
+        "name": "Компрессионный трикотаж",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/kompressionnyy-trikotazh",
+        "children": [
+          {
+            "id": 362,
+            "name": "Гольфы",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/kompressionnyy-trikotazh/golfy",
+            "children": null
+          },
+          {
+            "id": 154,
+            "name": "Колготки",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/kompressionnyy-trikotazh/kolgotki",
+            "children": null
+          },
+          {
+            "id": 363,
+            "name": "Компрессионные майки, футболки, шорты",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/kompressionnyy-trikotazh/kompressionnye-mayki_-futbolki_-shorty",
+            "children": null
+          },
+          {
+            "id": 155,
+            "name": "Чулки",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/kompressionnyy-trikotazh/chulki",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 57,
+        "name": "Коррекция осанки",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/korrektsiya-osanki",
+        "children": null
+      },
+      {
+        "id": 68,
+        "name": "Пояса, бандажи медицинские",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/poyasa_-bandazhi-meditsinskie",
+        "children": null
+      },
+      {
+        "id": 89,
+        "name": "При недержании",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/pri-nederzhanii",
+        "children": [
+          {
+            "id": 156,
+            "name": "Подгузники взрослые",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/pri-nederzhanii/podguzniki-vzroslye",
+            "children": null
+          },
+          {
+            "id": 194,
+            "name": "Прокладки урологические",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/pri-nederzhanii/prokladki-urologicheskie",
+            "children": null
+          },
+          {
+            "id": 157,
+            "name": "Трусики-подгузники взрослые",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/pri-nederzhanii/trusiki_podguzniki-vzroslye",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 94,
+        "name": "Противорадикулитные пояса",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/protivoradikulitnye-poyasa",
+        "children": null
+      },
+      {
+        "id": 296,
+        "name": "Стельки и подпяточники для обуви",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/stelki-i-podpyatochniki-dlya-obuvi",
+        "children": null
+      },
+      {
+        "id": 85,
+        "name": "Термобелье",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/termobele",
+        "children": null
+      },
+      {
+        "id": 302,
+        "name": "Тренажеры эспандеры",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/trenazhery-espandery",
+        "children": null
+      },
+      {
+        "id": 121,
+        "name": "Трикотаж для снижения веса",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/trikotazh-dlya-snizheniya-vesa",
+        "children": null
+      },
+      {
+        "id": 122,
+        "name": "Трости опорные",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/trosti-opornye",
+        "children": null
+      },
+      {
+        "id": 125,
+        "name": "Уход за лежачими больными",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/uhod-za-lezhachimi-bolnymi",
+        "children": [
+          {
+            "id": 390,
+            "name": "Матрасы противопролежневые",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/uhod-za-lezhachimi-bolnymi/matrasy-protivoprolezhnevye",
+            "children": null
+          },
+          {
+            "id": 190,
+            "name": "Пеленки, простыни для больных",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/uhod-za-lezhachimi-bolnymi/pelenki_-prostyni-dlya-bolnyh",
+            "children": null
+          },
+          {
+            "id": 388,
+            "name": "Судна и круги подкладные",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/uhod-za-lezhachimi-bolnymi/sudna-i-krugi-podkladnye",
+            "children": null
+          },
+          {
+            "id": 389,
+            "name": "Уход за кожей лежачих больных",
+            "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/uhod-za-lezhachimi-bolnymi/uhod-za-kozhey-lezhachih-bolnyh",
+            "children": null
+          }
+        ]
+      },
+      {
+        "id": 130,
+        "name": "Фиксаторы суставов, наколенники, налокотники",
+        "slug": "uhod-za-bolnymi_-sredstva-reabilitatsii/fiksatory-sustavov_-nakolenniki_-nalokotniki",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Летние серии",
+    "slug": "letnie-serii",
+    "iconUrl": "/userfiles/images/app_icons/web/60.png",
+    "children": [
+      {
+        "id": 31,
+        "name": "Для загара",
+        "slug": "letnie-serii/dlya-zagara",
+        "children": null
+      },
+      {
+        "id": 99,
+        "name": "Репелленты",
+        "slug": "letnie-serii/repellenty",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Спортивное питание",
+    "slug": "sportivnoe-pitanie",
+    "iconUrl": "/userfiles/images/app_icons/web/140.png",
+    "children": [
+      {
+        "id": 336,
+        "name": "Добавки спортивные",
+        "slug": "sportivnoe-pitanie/dobavki-sportivnye",
+        "children": null
+      },
+      {
+        "id": 335,
+        "name": "Коктейли спортивные",
+        "slug": "sportivnoe-pitanie/kokteyli-sportivnye",
+        "children": null
+      },
+      {
+        "id": 334,
+        "name": "Протеиновые (белковые) батончики",
+        "slug": "sportivnoe-pitanie/proteinovye-_belkovye_-batonchiki",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Контактные линзы и очки",
+    "slug": "kontaktnye-linzy-i-ochki",
+    "iconUrl": "/userfiles/images/app_icons/web/139.png",
+    "children": [
+      {
+        "id": 173,
+        "name": "Линзы ежедневные",
+        "slug": "kontaktnye-linzy-i-ochki/linzy-ezhednevnye",
+        "children": null
+      },
+      {
+        "id": 174,
+        "name": "Линзы месячного ношения",
+        "slug": "kontaktnye-linzy-i-ochki/linzy-mesyachnogo-nosheniya",
+        "children": null
+      },
+      {
+        "id": 175,
+        "name": "Линзы мультифокальные",
+        "slug": "kontaktnye-linzy-i-ochki/linzy-multifokalnye",
+        "children": null
+      },
+      {
+        "id": 98,
+        "name": "Растворы для контактных линз",
+        "slug": "kontaktnye-linzy-i-ochki/rastvory-dlya-kontaktnyh-linz",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Зоотовары",
+    "slug": "zootovary",
+    "iconUrl": "/userfiles/images/app_icons/web/142.png",
+    "children": [
+      {
+        "id": 370,
+        "name": "Влажные салфетки для животных",
+        "slug": "zootovary/vlazhnye-salfetki-dlya-zhivotnyh",
+        "children": null
+      },
+      {
+        "id": 392,
+        "name": "Медикаменты для животных",
+        "slug": "zootovary/medikamenty-dlya-zhivotnyh",
+        "children": null
+      },
+      {
+        "id": 143,
+        "name": "Пеленки для животных",
+        "slug": "zootovary/pelenki-dlya-zhivotnyh",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Уцененный товар",
+    "slug": "utsenennyy-tovar",
+    "iconUrl": "/userfiles/images/app_icons/web/133.png",
+    "children": null
+  },
+  {
+    "id": 134,
+    "name": "Хозяйственные товары",
+    "slug": "hozyaystvennye-tovary",
+    "iconUrl": "/userfiles/images/app_icons/web/134.png",
+    "children": [
+      {
+        "id": 379,
+        "name": "Бытовая химия",
+        "slug": "hozyaystvennye-tovary/bytovaya-himiya",
+        "children": null
+      },
+      {
+        "id": 135,
+        "name": "Бытовые принадлежности",
+        "slug": "hozyaystvennye-tovary/bytovye-prinadlezhnosti",
+        "children": null
+      },
+      {
+        "id": 136,
+        "name": "Канцелярия",
+        "slug": "hozyaystvennye-tovary/kantselyariya",
+        "children": null
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Прочее",
+    "slug": "prochee",
+    "iconUrl": "/userfiles/images/app_icons/web/132.png",
+    "children": null
+  }
+]

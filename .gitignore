@@ -1,0 +1,47 @@
+parser/result/*
+
+# Build
+/*.egg-info
+/dist
+*.pyc
+dbs
+
+# Docs
+/docs/_build
+
+# Tests
+/.coverage
+/_trial_temp
+/dbs
+/htmlcov
+/scrapyd.tests.test_*
+/scrapyd.conf
+/twistd.pid
+/eggs
+/items
+/logs
+
+
+__pychache__
+/.vagrant
+/scrapy.iml
+*.pyc
+_trial_temp*
+dropin.cache
+docs/build
+*egg-info
+.tox
+venv
+build
+dist
+.idea
+htmlcov/
+.coverage
+.pytest_cache/
+.coverage.*
+coverage.*
+test-output.*
+.cache/
+.mypy_cache/
+/tests/keys/localhost.crt
+/tests/keys/localhost.key

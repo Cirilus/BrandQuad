@@ -1,0 +1,24 @@
+Ссылка на все категории - 'https://apteka-ot-sklada.ru/api/category'
+Ссылка на товары - 'https://apteka-ot-sklada.ru/api/catalog/:id'
+{
+"id":	19
+"name":	"Томская область"
+"freeDeliverySum":	10000000
+"deliveryPrice":	100
+"contactPhone":	"8 (800) 550-00-33"
+}
+{
+"id":	92
+"name":	"Томск"
+"lat":	56.492443
+"lon":	84.983387
+"slug":	"tomsk"
+"prepositionalName":	"Томске"
+"isMain":	true
+"isMapped":	false
+"isDelivery":	false
+"regionId":	19
+"pricelistId":	null
+"region":	null
+"pharmacy":	null
+}

@@ -1,0 +1,13 @@
+version: '3.9'
+services:
+  scrapyd:
+    build:
+      dockerfile: ./Dockerfile
+      context: ./
+    container_name: scrapyd
+    ports:
+      - "6800:6800"
+    volumes:
+      - "/etc/scrapyd/:/var/lib/scrapyd/"
+    command: >
+      bash -c "scrapyd"
